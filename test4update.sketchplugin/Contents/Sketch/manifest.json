@@ -20,7 +20,7 @@
       "test4update.my-command-identifier"
     ]
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
   "appcast": "https://raw.githubusercontent.com/iaminglin/sketch4update/master/.appcast.xml",
   "name": "test4update",
   "identifier": "test4update",
