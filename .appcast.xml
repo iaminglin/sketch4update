@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <enclosure url="https://github.com/iaminglin/GitTest/archive/1.5_release.zip" sparkle:version="0.1.2"/>
+      <enclosure url="https://github.com/iaminglin/sketch4update/releases/download/v0.1.2/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.2"/>
     </item>
   </channel>
 </rss>
