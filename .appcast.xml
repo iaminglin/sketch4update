@@ -4,5 +4,8 @@
     <item>
       <enclosure url="https://github.com/iaminglin/sketch4update/releases/download/v0.1.2/test4update.sketchplugin.zip" sparkle:version="0.1.2"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/iaminglin/sketch4update/releases/download/v0.1.3/test4update.sketchplugin.zip" sparkle:version="0.1.3"/>
+    </item>
   </channel>
 </rss>
