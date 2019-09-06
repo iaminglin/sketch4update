@@ -1,0 +1,25 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "my-command",
+      "identifier": "test4update.my-command-identifier",
+      "script": "./my-command.js",
+      "handlers": {
+        "run": "onRun",
+        "actions": {
+          "Shutdown": "onShutdown"
+        }
+      }
+    }
+  ],
+  "menu": {
+    "title": "test4update",
+    "items": [
+      "test4update.my-command-identifier"
+    ]
+  },
+  "version": "0.1.1",
+  "appcast": "https://raw.githubusercontent.com/iaminglin/sketch4update/master/.appcast.xml"
+}
